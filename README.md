@@ -4,7 +4,6 @@
 
 исходная обработка http://infostart.ru/public/119601/
 автор Александр Переверзев
-e-mail: a.v.pereverzev@gmail.com
 Версия: 2.0.0.17
 
 
